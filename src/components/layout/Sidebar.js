@@ -45,7 +45,7 @@ const Sidebar = () => {
             {displayName}
           </Typography>
           <Typography variant="body2" color="text.secondary">
-            looking for opportunity in react.js, coldcaller lets see
+            Rectjs/Nextjs Developer
           </Typography>
           <Divider />
           <Stack
